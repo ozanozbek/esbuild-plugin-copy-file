@@ -1,0 +1,23 @@
+{
+  "name": "esbuild-plugin-copy-file",
+  "version": "0.0.2",
+  "description": " esbuild plugin for asynchronously copying files in parallel ",
+  "main": "source/main.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozanozbek/esbuild-plugin-copy-file.git"
+  },
+  "keywords": [
+    "esbuild",
+    "plugin",
+    "file",
+    "copy"
+  ],
+  "author": "Ozan Ozbek <erdemozanozbek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozanozbek/esbuild-plugin-copy-file/issues"
+  },
+  "homepage": "https://github.com/ozanozbek/esbuild-plugin-copy-file#readme"
+}
